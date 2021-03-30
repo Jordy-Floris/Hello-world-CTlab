@@ -1,3 +1,27 @@
-body {
-    background-color: bisque;
-}
+body{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0;
+    padding:0;
+   }
+   
+   
+   .main-header{
+       width:100vw;
+       text-align:center;
+   }
+   
+   .profile-picture{
+       width:200px;
+       height:200px;
+       border-radius:50%;
+   }
+   
+   section{
+    padding:5vw;
+   }
+   
+   .sprint-2{
+       background-color:rgba(216, 191, 216, 0.616);
+   }
